@@ -8,7 +8,19 @@ from data_convert.task_format.event_extraction import Event, DyIEPP
 from data_convert.utils import read_file, check_output, data_counter_to_table, get_schema, output_schema
 from nltk.corpus import stopwords
 
-english_stopwords = set(stopwords.words('english') + ["'s", "'re", "%"])
+# english_stopwords = set(stopwords.words('english') + ["'s", "'re", "%"])
+
+FILE = "stopwords.txt"
+number_list = []
+with open(FILE) as f:
+    for line in f:
+        ls = line.strip('\n')
+        number_list.append(ls)
+        # number_list.extend([line.split("\n")][0])
+english_stopwords = number_list
+# english_stopwords = set(number_list + ["'s", "'re", "%"])
+print('this is ', english_stopwords)
+
 
 def convert_file_tuple(file_tuple, data_class=Event, target_class=ETRTText2Role,
                        output_folder='data/text2target/framenet',
@@ -28,7 +40,7 @@ def convert_file_tuple(file_tuple, data_class=Event, target_class=ETRTText2Role,
         span_event_output = open(output_filename + '.json', 'w')
 
         for line in read_file(in_filename):
-            document = data_class(json.loads(line.strip())) # 每行都是一个json文件格式
+            document = data_class(json.loads(line.strip()))  # 每行都是一个json文件格式
             for sentence in document.generate_sentence(type_format=type_format):
 
                 if ignore_nonevent and len(sentence['events']) == 0:
@@ -36,12 +48,12 @@ def convert_file_tuple(file_tuple, data_class=Event, target_class=ETRTText2Role,
 
                 # 处理schema数据信息, 并进行统计
                 for event in sentence['events']:
-                    event_schema_set = event_schema_set | get_schema(event) # set((ET, RT)) 合并后再遍历根据et 整理 dict
+                    event_schema_set = event_schema_set | get_schema(event)  # set((ET, RT)) 合并后再遍历根据et 整理 dict
                     sep = '' if zh else ' '
                     predicate = sep.join([sentence['tokens'][index]
-                                          for index in event['tokens']]) # 触发词的文本信息
-                    counter['pred'].update([predicate]) 
-                    counter['type'].update([event['type']]) # 事件类型
+                                          for index in event['tokens']])  # 触发词的文本信息
+                    counter['pred'].update([predicate])
+                    counter['type'].update([event['type']])  # 事件类型
                     data_counter[in_filename].update(['event'])
                     for argument in event['arguments']:
                         data_counter[in_filename].update(['argument'])
@@ -73,7 +85,8 @@ def convert_file_tuple(file_tuple, data_class=Event, target_class=ETRTText2Role,
                 assert len(span_source_list) == len(span_target_list)
                 for i in range(len(span_source_list)):
                     span_event_output.write(
-                        json.dumps({'text': span_source_list[i], 'event': span_target_list[i]}, ensure_ascii=False) + '\n')
+                        json.dumps({'text': span_source_list[i], 'event': span_target_list[i]},
+                                   ensure_ascii=False) + '\n')
 
         span_event_output.close()
 
@@ -99,31 +112,27 @@ def convert_dyiepp_event(output_folder='data/text2target/ace2005_event', type_fo
                        mark_tree=mark_tree,
                        type_format=type_format,
                        data_class=DyIEPP,
-                       target_class = target_class
+                       target_class=target_class
                        )
+
 
 if __name__ == "__main__":
     type_format_name = 'subtype'
-    
-    
+
     # ET + RT + src -> ( (Role) (Role) )
     convert_dyiepp_event("data/text2target/dyiepp_ace2005_etrttext2role_%s" % type_format_name,
-                        type_format=type_format_name,
-                        ignore_nonevent=False, mark_tree=False, target_class=ETRTText2Role
-                        )
+                         type_format=type_format_name,
+                         ignore_nonevent=False, mark_tree=False, target_class=ETRTText2Role
+                         )
 
     # src -> ((ET)(ET))
     convert_dyiepp_event("data/text2target/dyiepp_ace2005_text2et_%s" % type_format_name,
-                        type_format=type_format_name,
-                        ignore_nonevent=False, mark_tree=False, target_class=Text2ET
-                        )
-    
-    
+                         type_format=type_format_name,
+                         ignore_nonevent=False, mark_tree=False, target_class=Text2ET
+                         )
+
     # ET + src -> ((Tri)(Tri))
     convert_dyiepp_event("data/text2target/dyiepp_ace2005_ettext2tri_%s" % type_format_name,
-                        type_format=type_format_name,
-                        ignore_nonevent=False, mark_tree=False, target_class=ETText2Tri
-                        )
-    
-
-    
+                         type_format=type_format_name,
+                         ignore_nonevent=False, mark_tree=False, target_class=ETText2Tri
+                         )

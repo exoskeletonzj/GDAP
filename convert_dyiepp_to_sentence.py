@@ -9,7 +9,7 @@ import collections
 def main():
 
     output_dir = sys.argv[1]
-    for fold in ["train", "dev", "test"]:
+    for fold in ["train", "val", "test"]:
         g_convert = open(path.join(output_dir, fold + "_convert.json"), "w")
         with open(path.join(output_dir, fold + ".json"), "r") as g:
             print('convert %s to %s' % (

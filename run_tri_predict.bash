@@ -1,7 +1,7 @@
 export device="0"
-export et_model_path="XXX"
-export tri_model_path="XXX"
-export et_data_name=dyiepp_ace2005_text2et_subtype_span
+export et_model_path="models/span_et/span_pretrain"
+export tri_model_path="models/span_tri/span_pretrain"
+export et_data_name=dyiepp_ace2005_text2et_subtype
 export task_name="event"
 export batch=16
 export constraint_decoding="--constraint_decoding"

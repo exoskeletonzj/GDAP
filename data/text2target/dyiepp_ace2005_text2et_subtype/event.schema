@@ -1,0 +1,3 @@
+["Attack", "Nominate", "Elect", "Start-Position", "Transport", "Meet", "End-Position", "Die"]
+["Destination", "Agent", "Artifact", "Place", "Origin", "Vehicle", "Person", "Attacker", "Entity", "Victim"]
+{"Die": ["Place", "Agent", "Victim"], "Meet": ["Entity"], "Attack": ["Attacker", "Place"], "Transport": ["Destination", "Artifact", "Agent", "Vehicle", "Origin"], "End-Position": ["Entity", "Person"], "Start-Position": ["Entity", "Person"], "Elect": ["Person"], "Nominate": ["Person"]}

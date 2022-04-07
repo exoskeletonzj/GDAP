@@ -1,5 +1,7 @@
 # GDAP
-Code for ***[Generating Disentangled Arguments with Prompts: A Simple Event Extraction Framework that Works](https://arxiv.org/abs/2110.04525)***
+
+Code
+for ***[Generating Disentangled Arguments with Prompts: A Simple Event Extraction Framework that Works](https://arxiv.org/abs/2110.04525)***
 
 ## Environment
 
@@ -10,6 +12,7 @@ Code for ***[Generating Disentangled Arguments with Prompts: A Simple Event Extr
 ## Usage
 
 ### Preprocessing
+
 We follow [dygiepp](https://github.com/dwadden/dygiepp) for data preprocessing.
 
 - `text2et`: Event Type Detection
@@ -22,15 +25,16 @@ data/text2target/dyiepp_ace1005_ettext2tri_subtype
 ├── event.schema 
 ├── test.json
 ├── train.json
-└── val.json
+└── dev.json
 
 # data processed by  data_convert.convert_text_to_target
 data/text2target/dyiepp_ace1005_ettext2tri_subtype
 ├── event.schema
 ├── test.json
 ├── train.json
-└── val.json
+└── dev.json
 ```
+
 Useful commands:
 
 ```bash
@@ -39,6 +43,7 @@ python convert_dyiepp_to_sentence.py data/raw_data/dyiepp_ace2005 # doc -> sente
 ```
 
 ### Training
+
 Relevant scripts:
 
 - `run_seq2seq.py`: Python code entry, modified from the transformers/examples/seq2seq/run_seq2seq.py
@@ -60,14 +65,18 @@ bash run_seq2seq_span.bash --data=dyiepp_ace2005_etrttext2role_subtype --model=t
 
 Trained models are saved in the `models/` folder.
 
-The event type detection use the same output format and metric_format as trigger extraction, so the et exp result is included in eval_trigger-* and test_trigger-* of the log.
+The event type detection use the same output format and metric_format as trigger extraction, so the et exp result is
+included in eval_trigger-* and test_trigger-* of the log.
 
 ### Evaluation
+
 - `run_tri_predict.bash`: trigger extraction evaluation and inference script.
 - `run_arg_predict.bash`: argument extraction evaluation and inference script.
 
 ## If you find this repo helpful...
+
 Please give us a :star: and cite our paper as
+
 ```bibtex
 @inproceedings{si2021-GDAP,
       title={Generating Disentangled Arguments with Prompts: A Simple Event Extraction Framework that Works}, 

@@ -1,0 +1,321 @@
+{"text": "End-Org </s> CNN_CF_20030303.1900.00", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Divorce </s> CNN_CF_20030303.1900.00", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Execute </s> CNN_CF_20030303.1900.00", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Convict </s> CNN_CF_20030303.1900.00", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Declare-Bankruptcy </s> CNN_CF_20030303.1900.00", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Release-Parole </s> CNN_CF_20030303.1900.00", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> STORY", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Meet </s> STORY", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Pardon </s> STORY", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Fine </s> STORY", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Declare-Bankruptcy </s> STORY", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Nominate </s> STORY", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Nominate </s> 2003 - 03 - 03T19:00:00 - 05:00", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Phone-Write </s> 2003 - 03 - 03T19:00:00 - 05:00", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Demonstrate </s> 2003 - 03 - 03T19:00:00 - 05:00", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Org </s> 2003 - 03 - 03T19:00:00 - 05:00", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transport </s> 2003 - 03 - 03T19:00:00 - 05:00", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Charge-Indict </s> 2003 - 03 - 03T19:00:00 - 05:00", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Org </s> New Questions About Attacking Iraq ; Is Torturing Terrorists Necessary ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Nominate </s> New Questions About Attacking Iraq ; Is Torturing Terrorists Necessary ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Execute </s> New Questions About Attacking Iraq ; Is Torturing Terrorists Necessary ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Sentence </s> New Questions About Attacking Iraq ; Is Torturing Terrorists Necessary ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Extradite </s> New Questions About Attacking Iraq ; Is Torturing Terrorists Necessary ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Position </s> New Questions About Attacking Iraq ; Is Torturing Terrorists Necessary ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Injure </s> BEGALA Well , we 'll debate that later on in the show .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> BEGALA Well , we 'll debate that later on in the show .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Nominate </s> BEGALA Well , we 'll debate that later on in the show .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Sue </s> BEGALA Well , we 'll debate that later on in the show .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Demonstrate </s> BEGALA Well , we 'll debate that later on in the show .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Fine </s> BEGALA Well , we 'll debate that later on in the show .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Merge-Org </s> We 'll have a couple of experts come out , so I 'll withhold my comments until then .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Org </s> We 'll have a couple of experts come out , so I 'll withhold my comments until then .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Release-Parole </s> We 'll have a couple of experts come out , so I 'll withhold my comments until then .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Divorce </s> We 'll have a couple of experts come out , so I 'll withhold my comments until then .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Declare-Bankruptcy </s> We 'll have a couple of experts come out , so I 'll withhold my comments until then .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> We 'll have a couple of experts come out , so I 'll withhold my comments until then .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transport </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0> <extra_id_0> landed <extra_id_1> <extra_id_1>"}
+{"text": "Transfer-Money </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Nominate </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Meet </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Position </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Position </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Appeal </s> Now , why has our president placed homeland security in the hands of Republican political hacks instead of professionals , by the way ? Attorney General John Ashcroft , for example , is a career politician .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Trial-Hearing </s> Now , why has our president placed homeland security in the hands of Republican political hacks instead of professionals , by the way ? Attorney General John Ashcroft , for example , is a career politician .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Declare-Bankruptcy </s> Now , why has our president placed homeland security in the hands of Republican political hacks instead of professionals , by the way ? Attorney General John Ashcroft , for example , is a career politician .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Release-Parole </s> Now , why has our president placed homeland security in the hands of Republican political hacks instead of professionals , by the way ? Attorney General John Ashcroft , for example , is a career politician .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Fine </s> Now , why has our president placed homeland security in the hands of Republican political hacks instead of professionals , by the way ? Attorney General John Ashcroft , for example , is a career politician .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> Now , why has our president placed homeland security in the hands of Republican political hacks instead of professionals , by the way ? Attorney General John Ashcroft , for example , is a career politician .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> He lost an election to a dead man .", "event": "<extra_id_0> <extra_id_0> election <extra_id_1> <extra_id_1>"}
+{"text": "Arrest-Jail </s> He lost an election to a dead man .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transfer-Ownership </s> He lost an election to a dead man .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Acquit </s> He lost an election to a dead man .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Merge-Org </s> He lost an election to a dead man .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Position </s> He lost an election to a dead man .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Trial-Hearing </s> He lost an election to a dead man .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Nominate </s> Secretary of Homeland Security Tom Ridge is another career politician who was passed over by Mr. Bush for the vice presidency .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Extradite </s> Secretary of Homeland Security Tom Ridge is another career politician who was passed over by Mr. Bush for the vice presidency .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Injure </s> Secretary of Homeland Security Tom Ridge is another career politician who was passed over by Mr. Bush for the vice presidency .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Execute </s> Secretary of Homeland Security Tom Ridge is another career politician who was passed over by Mr. Bush for the vice presidency .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> Secretary of Homeland Security Tom Ridge is another career politician who was passed over by Mr. Bush for the vice presidency .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Arrest-Jail </s> Secretary of Homeland Security Tom Ridge is another career politician who was passed over by Mr. Bush for the vice presidency .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transport </s> And Deputy Secretary of Homeland Security Asa Hutchinson is yet another career politician and a graduate of the disgraceful Bob Jones University .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Charge-Indict </s> And Deputy Secretary of Homeland Security Asa Hutchinson is yet another career politician and a graduate of the disgraceful Bob Jones University .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Be-Born </s> And Deputy Secretary of Homeland Security Asa Hutchinson is yet another career politician and a graduate of the disgraceful Bob Jones University .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> And Deputy Secretary of Homeland Security Asa Hutchinson is yet another career politician and a graduate of the disgraceful Bob Jones University .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Demonstrate </s> And Deputy Secretary of Homeland Security Asa Hutchinson is yet another career politician and a graduate of the disgraceful Bob Jones University .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Meet </s> And Deputy Secretary of Homeland Security Asa Hutchinson is yet another career politician and a graduate of the disgraceful Bob Jones University .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Convict </s> Apparently , Mr. Bush only turns to professionals when it 's really important , like political consulting .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Acquit </s> Apparently , Mr. Bush only turns to professionals when it 's really important , like political consulting .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Meet </s> Apparently , Mr. Bush only turns to professionals when it 's really important , like political consulting .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Phone-Write </s> Apparently , Mr. Bush only turns to professionals when it 's really important , like political consulting .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> Apparently , Mr. Bush only turns to professionals when it 's really important , like political consulting .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Nominate </s> Apparently , Mr. Bush only turns to professionals when it 's really important , like political consulting .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0> <extra_id_0> elected <extra_id_1> <extra_id_1>"}
+{"text": "Transfer-Money </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Demonstrate </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Arrest-Jail </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Org </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Nominate </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Sue </s> Now in your administration , the Clinton administration , there were these members of the cabinet who by your definition were professional politicians -- Lloyd Bentsen , Les Aspin , William S. Cohen , Janet Reno , Bruce Babbitt , Mike Espy , Dan Glickman , Norman Mineta , Henry Cisneros , Federico Pena , Bill Richardson , Richard Riley , 12 of them , not to mention former Democratic National Chairman Ron Brown , and one of the great professional politicians of all time , Bill Daly .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Merge-Org </s> Now in your administration , the Clinton administration , there were these members of the cabinet who by your definition were professional politicians -- Lloyd Bentsen , Les Aspin , William S. Cohen , Janet Reno , Bruce Babbitt , Mike Espy , Dan Glickman , Norman Mineta , Henry Cisneros , Federico Pena , Bill Richardson , Richard Riley , 12 of them , not to mention former Democratic National Chairman Ron Brown , and one of the great professional politicians of all time , Bill Daly .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> Now in your administration , the Clinton administration , there were these members of the cabinet who by your definition were professional politicians -- Lloyd Bentsen , Les Aspin , William S. Cohen , Janet Reno , Bruce Babbitt , Mike Espy , Dan Glickman , Norman Mineta , Henry Cisneros , Federico Pena , Bill Richardson , Richard Riley , 12 of them , not to mention former Democratic National Chairman Ron Brown , and one of the great professional politicians of all time , Bill Daly .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Execute </s> Now in your administration , the Clinton administration , there were these members of the cabinet who by your definition were professional politicians -- Lloyd Bentsen , Les Aspin , William S. Cohen , Janet Reno , Bruce Babbitt , Mike Espy , Dan Glickman , Norman Mineta , Henry Cisneros , Federico Pena , Bill Richardson , Richard Riley , 12 of them , not to mention former Democratic National Chairman Ron Brown , and one of the great professional politicians of all time , Bill Daly .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> Now in your administration , the Clinton administration , there were these members of the cabinet who by your definition were professional politicians -- Lloyd Bentsen , Les Aspin , William S. Cohen , Janet Reno , Bruce Babbitt , Mike Espy , Dan Glickman , Norman Mineta , Henry Cisneros , Federico Pena , Bill Richardson , Richard Riley , 12 of them , not to mention former Democratic National Chairman Ron Brown , and one of the great professional politicians of all time , Bill Daly .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Injure </s> Now in your administration , the Clinton administration , there were these members of the cabinet who by your definition were professional politicians -- Lloyd Bentsen , Les Aspin , William S. Cohen , Janet Reno , Bruce Babbitt , Mike Espy , Dan Glickman , Norman Mineta , Henry Cisneros , Federico Pena , Bill Richardson , Richard Riley , 12 of them , not to mention former Democratic National Chairman Ron Brown , and one of the great professional politicians of all time , Bill Daly .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Fine </s> BEGALA And you know what , they did a hell of a job for our country .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Appeal </s> BEGALA And you know what , they did a hell of a job for our country .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Marry </s> BEGALA And you know what , they did a hell of a job for our country .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Meet </s> BEGALA And you know what , they did a hell of a job for our country .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> BEGALA And you know what , they did a hell of a job for our country .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Execute </s> BEGALA And you know what , they did a hell of a job for our country .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transport </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0> <extra_id_0> land <extra_id_1> <extra_id_1>"}
+{"text": "Nominate </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Acquit </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Arrest-Jail </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Release-Parole </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Position </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Fine </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Declare-Bankruptcy </s> Our president has put homeland security in the hands of failed Republican hacks .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Org </s> Our president has put homeland security in the hands of failed Republican hacks .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Position </s> Our president has put homeland security in the hands of failed Republican hacks .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Meet </s> Our president has put homeland security in the hands of failed Republican hacks .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> Our president has put homeland security in the hands of failed Republican hacks .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Marry </s> Our president has put homeland security in the hands of failed Republican hacks .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Position </s> Hire professionals , Mr. President .", "event": "<extra_id_0> <extra_id_0> Hire <extra_id_1> <extra_id_1>"}
+{"text": "End-Org </s> Hire professionals , Mr. President .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Be-Born </s> Hire professionals , Mr. President .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Position </s> Hire professionals , Mr. President .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transfer-Ownership </s> Hire professionals , Mr. President .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Release-Parole </s> Hire professionals , Mr. President .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Declare-Bankruptcy </s> Hire professionals , Mr. President .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> NOVAK So it 's OK -- it 's OK to have professional politicians at the Justice Department and the Pentagon ...", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Sue </s> NOVAK So it 's OK -- it 's OK to have professional politicians at the Justice Department and the Pentagon ...", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Declare-Bankruptcy </s> NOVAK So it 's OK -- it 's OK to have professional politicians at the Justice Department and the Pentagon ...", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Convict </s> NOVAK So it 's OK -- it 's OK to have professional politicians at the Justice Department and the Pentagon ...", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transport </s> NOVAK So it 's OK -- it 's OK to have professional politicians at the Justice Department and the Pentagon ...", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transfer-Money </s> NOVAK So it 's OK -- it 's OK to have professional politicians at the Justice Department and the Pentagon ...", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Release-Parole </s> BEGALA Janet Reno was a career prosecutor .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transfer-Ownership </s> BEGALA Janet Reno was a career prosecutor .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Merge-Org </s> BEGALA Janet Reno was a career prosecutor .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Acquit </s> BEGALA Janet Reno was a career prosecutor .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Org </s> BEGALA Janet Reno was a career prosecutor .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Pardon </s> BEGALA Janet Reno was a career prosecutor .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Be-Born </s> NOVAK Just a minute , let me finish my sentence , please .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transfer-Ownership </s> NOVAK Just a minute , let me finish my sentence , please .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Fine </s> NOVAK Just a minute , let me finish my sentence , please .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Merge-Org </s> NOVAK Just a minute , let me finish my sentence , please .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Extradite </s> NOVAK Just a minute , let me finish my sentence , please .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> NOVAK Just a minute , let me finish my sentence , please .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Position </s> It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?", "event": "<extra_id_0> <extra_id_0> put <extra_id_1> <extra_id_1>"}
+{"text": "Acquit </s> It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Trial-Hearing </s> It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Org </s> It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Position </s> It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Injure </s> It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Release-Parole </s> BEGALA No , the difference is Janet Reno was a career prosecutor .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Arrest-Jail </s> BEGALA No , the difference is Janet Reno was a career prosecutor .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Divorce </s> BEGALA No , the difference is Janet Reno was a career prosecutor .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> BEGALA No , the difference is Janet Reno was a career prosecutor .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Appeal </s> BEGALA No , the difference is Janet Reno was a career prosecutor .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transfer-Money </s> BEGALA No , the difference is Janet Reno was a career prosecutor .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Convict </s> ( CROSSTALK )", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Pardon </s> ( CROSSTALK )", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> ( CROSSTALK )", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Phone-Write </s> ( CROSSTALK )", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Declare-Bankruptcy </s> ( CROSSTALK )", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Execute </s> ( CROSSTALK )", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transfer-Ownership </s> BEGALA John Ashcroft was n't half the woman that Janet Reno was .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Pardon </s> BEGALA John Ashcroft was n't half the woman that Janet Reno was .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Trial-Hearing </s> BEGALA John Ashcroft was n't half the woman that Janet Reno was .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Extradite </s> BEGALA John Ashcroft was n't half the woman that Janet Reno was .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> BEGALA John Ashcroft was n't half the woman that Janet Reno was .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Org </s> BEGALA John Ashcroft was n't half the woman that Janet Reno was .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Charge-Indict </s> NOVAK Another potential Democratic presidential candidate pondered whether to run , and he made his announcement , and surprise , surprise , the answer was no .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Divorce </s> NOVAK Another potential Democratic presidential candidate pondered whether to run , and he made his announcement , and surprise , surprise , the answer was no .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Pardon </s> NOVAK Another potential Democratic presidential candidate pondered whether to run , and he made his announcement , and surprise , surprise , the answer was no .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Injure </s> NOVAK Another potential Democratic presidential candidate pondered whether to run , and he made his announcement , and surprise , surprise , the answer was no .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Appeal </s> NOVAK Another potential Democratic presidential candidate pondered whether to run , and he made his announcement , and surprise , surprise , the answer was no .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transport </s> NOVAK Another potential Democratic presidential candidate pondered whether to run , and he made his announcement , and surprise , surprise , the answer was no .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Nominate </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0> <extra_id_0> nomination <extra_id_1> <extra_id_1>"}
+{"text": "Convict </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Injure </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Sue </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Demonstrate </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transfer-Money </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Position </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transfer-Ownership </s> Why not ? Surely Chris Dodd is at least more credible than Carol Moseley - Braun or Dennis Kucinich .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Declare-Bankruptcy </s> Why not ? Surely Chris Dodd is at least more credible than Carol Moseley - Braun or Dennis Kucinich .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Org </s> Why not ? Surely Chris Dodd is at least more credible than Carol Moseley - Braun or Dennis Kucinich .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> Why not ? Surely Chris Dodd is at least more credible than Carol Moseley - Braun or Dennis Kucinich .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Release-Parole </s> Why not ? Surely Chris Dodd is at least more credible than Carol Moseley - Braun or Dennis Kucinich .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Meet </s> Why not ? Surely Chris Dodd is at least more credible than Carol Moseley - Braun or Dennis Kucinich .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Nominate </s> He explained he could better spend the next two years on homeland security , the economy and judicial nominations .", "event": "<extra_id_0> <extra_id_0> nominations <extra_id_1> <extra_id_1>"}
+{"text": "Die </s> He explained he could better spend the next two years on homeland security , the economy and judicial nominations .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Merge-Org </s> He explained he could better spend the next two years on homeland security , the economy and judicial nominations .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Convict </s> He explained he could better spend the next two years on homeland security , the economy and judicial nominations .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> He explained he could better spend the next two years on homeland security , the economy and judicial nominations .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Phone-Write </s> He explained he could better spend the next two years on homeland security , the economy and judicial nominations .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Pardon </s> He explained he could better spend the next two years on homeland security , the economy and judicial nominations .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Extradite </s> I guess that means harassing Tom Ridge , fighting tax cuts and obstructing President Bush 's plans to reform judiciary .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Release-Parole </s> I guess that means harassing Tom Ridge , fighting tax cuts and obstructing President Bush 's plans to reform judiciary .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Declare-Bankruptcy </s> I guess that means harassing Tom Ridge , fighting tax cuts and obstructing President Bush 's plans to reform judiciary .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Charge-Indict </s> I guess that means harassing Tom Ridge , fighting tax cuts and obstructing President Bush 's plans to reform judiciary .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Org </s> I guess that means harassing Tom Ridge , fighting tax cuts and obstructing President Bush 's plans to reform judiciary .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transfer-Ownership </s> I guess that means harassing Tom Ridge , fighting tax cuts and obstructing President Bush 's plans to reform judiciary .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Fine </s> Some two years .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Arrest-Jail </s> Some two years .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Be-Born </s> Some two years .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transfer-Ownership </s> Some two years .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Merge-Org </s> Some two years .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> Some two years .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Phone-Write </s> BEGALA God , I hope so .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> BEGALA God , I hope so .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Appeal </s> BEGALA God , I hope so .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Convict </s> BEGALA God , I hope so .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Divorce </s> BEGALA God , I hope so .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Injure </s> BEGALA God , I hope so .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Convict </s> that 's all I can say .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Extradite </s> that 's all I can say .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Position </s> that 's all I can say .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Be-Born </s> that 's all I can say .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Phone-Write </s> that 's all I can say .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Org </s> that 's all I can say .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Extradite </s> I love Senator Dodd .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> I love Senator Dodd .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Position </s> I love Senator Dodd .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Convict </s> I love Senator Dodd .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> I love Senator Dodd .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Injure </s> I love Senator Dodd .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Position </s> He would have brought a lot to the race .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transfer-Ownership </s> He would have brought a lot to the race .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Org </s> He would have brought a lot to the race .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Be-Born </s> He would have brought a lot to the race .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Execute </s> He would have brought a lot to the race .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Trial-Hearing </s> He would have brought a lot to the race .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Charge-Indict </s> He brings a lot to the Senate and to the debate .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Demonstrate </s> He brings a lot to the Senate and to the debate .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Position </s> He brings a lot to the Senate and to the debate .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Position </s> He brings a lot to the Senate and to the debate .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Sue </s> He brings a lot to the Senate and to the debate .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Org </s> He brings a lot to the Senate and to the debate .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Org </s> And I 'm glad that he 's going to be fighting those fights .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Divorce </s> And I 'm glad that he 's going to be fighting those fights .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> And I 'm glad that he 's going to be fighting those fights .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Charge-Indict </s> And I 'm glad that he 's going to be fighting those fights .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Execute </s> And I 'm glad that he 's going to be fighting those fights .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Phone-Write </s> And I 'm glad that he 's going to be fighting those fights .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transport </s> Well , the Commerce Department reports today that consumer spending declined in January and that the manufacturing sector slowed in February .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Sue </s> Well , the Commerce Department reports today that consumer spending declined in January and that the manufacturing sector slowed in February .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Sentence </s> Well , the Commerce Department reports today that consumer spending declined in January and that the manufacturing sector slowed in February .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Org </s> Well , the Commerce Department reports today that consumer spending declined in January and that the manufacturing sector slowed in February .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Execute </s> Well , the Commerce Department reports today that consumer spending declined in January and that the manufacturing sector slowed in February .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Position </s> Well , the Commerce Department reports today that consumer spending declined in January and that the manufacturing sector slowed in February .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Merge-Org </s> In all , two million Americans have lost their jobs under President Bush so far , not to mention three of them being the top three leaders of his economic team .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Meet </s> In all , two million Americans have lost their jobs under President Bush so far , not to mention three of them being the top three leaders of his economic team .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Divorce </s> In all , two million Americans have lost their jobs under President Bush so far , not to mention three of them being the top three leaders of his economic team .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> In all , two million Americans have lost their jobs under President Bush so far , not to mention three of them being the top three leaders of his economic team .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Marry </s> In all , two million Americans have lost their jobs under President Bush so far , not to mention three of them being the top three leaders of his economic team .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Sentence </s> In all , two million Americans have lost their jobs under President Bush so far , not to mention three of them being the top three leaders of his economic team .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Acquit </s> Meanwhile , the deficit now at $ 300 billion .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transport </s> Meanwhile , the deficit now at $ 300 billion .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Convict </s> Meanwhile , the deficit now at $ 300 billion .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Appeal </s> Meanwhile , the deficit now at $ 300 billion .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> Meanwhile , the deficit now at $ 300 billion .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Merge-Org </s> Meanwhile , the deficit now at $ 300 billion .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0> <extra_id_0> war <extra_id_1> <extra_id_1>"}
+{"text": "Elect </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Merge-Org </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Trial-Hearing </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Position </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Declare-Bankruptcy </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Sentence </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Divorce </s> Mr. Bush apparently is untroubled by this fiscal collapse .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Declare-Bankruptcy </s> Mr. Bush apparently is untroubled by this fiscal collapse .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Injure </s> Mr. Bush apparently is untroubled by this fiscal collapse .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Position </s> Mr. Bush apparently is untroubled by this fiscal collapse .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Position </s> Mr. Bush apparently is untroubled by this fiscal collapse .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> Mr. Bush apparently is untroubled by this fiscal collapse .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Extradite </s> One of his aides tells the current issue of \" TIME , \" magazine , quote , \" even if it 's $ 500 billion , so what ? \" Of course , even a $ 500 billion deficit number does n't count the $ 3 trillion Mr. Bush is robbing from the Social Security trust fund .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> One of his aides tells the current issue of \" TIME , \" magazine , quote , \" even if it 's $ 500 billion , so what ? \" Of course , even a $ 500 billion deficit number does n't count the $ 3 trillion Mr. Bush is robbing from the Social Security trust fund .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Merge-Org </s> One of his aides tells the current issue of \" TIME , \" magazine , quote , \" even if it 's $ 500 billion , so what ? \" Of course , even a $ 500 billion deficit number does n't count the $ 3 trillion Mr. Bush is robbing from the Social Security trust fund .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Phone-Write </s> One of his aides tells the current issue of \" TIME , \" magazine , quote , \" even if it 's $ 500 billion , so what ? \" Of course , even a $ 500 billion deficit number does n't count the $ 3 trillion Mr. Bush is robbing from the Social Security trust fund .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> One of his aides tells the current issue of \" TIME , \" magazine , quote , \" even if it 's $ 500 billion , so what ? \" Of course , even a $ 500 billion deficit number does n't count the $ 3 trillion Mr. Bush is robbing from the Social Security trust fund .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Meet </s> One of his aides tells the current issue of \" TIME , \" magazine , quote , \" even if it 's $ 500 billion , so what ? \" Of course , even a $ 500 billion deficit number does n't count the $ 3 trillion Mr. Bush is robbing from the Social Security trust fund .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Sentence </s> You know , we should have known , every time George W. Bush gets in trouble , he borrows from a trust fund .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> You know , we should have known , every time George W. Bush gets in trouble , he borrows from a trust fund .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Position </s> You know , we should have known , every time George W. Bush gets in trouble , he borrows from a trust fund .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Acquit </s> You know , we should have known , every time George W. Bush gets in trouble , he borrows from a trust fund .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Divorce </s> You know , we should have known , every time George W. Bush gets in trouble , he borrows from a trust fund .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Org </s> You know , we should have known , every time George W. Bush gets in trouble , he borrows from a trust fund .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Extradite </s> It 's been his whole life , you know .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Demonstrate </s> It 's been his whole life , you know .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Charge-Indict </s> It 's been his whole life , you know .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transport </s> It 's been his whole life , you know .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Be-Born </s> It 's been his whole life , you know .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Nominate </s> It 's been his whole life , you know .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Position </s> NOVAK Let me give you two economic facts of like , which you should know , even if you wo n't recognize them .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Appeal </s> NOVAK Let me give you two economic facts of like , which you should know , even if you wo n't recognize them .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Sentence </s> NOVAK Let me give you two economic facts of like , which you should know , even if you wo n't recognize them .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Execute </s> NOVAK Let me give you two economic facts of like , which you should know , even if you wo n't recognize them .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Nominate </s> NOVAK Let me give you two economic facts of like , which you should know , even if you wo n't recognize them .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Phone-Write </s> NOVAK Let me give you two economic facts of like , which you should know , even if you wo n't recognize them .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Marry </s> Number one , there is absolutely no relationship between the deficit and unemployment .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Be-Born </s> Number one , there is absolutely no relationship between the deficit and unemployment .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Org </s> Number one , there is absolutely no relationship between the deficit and unemployment .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Demonstrate </s> Number one , there is absolutely no relationship between the deficit and unemployment .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> Number one , there is absolutely no relationship between the deficit and unemployment .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Declare-Bankruptcy </s> Number one , there is absolutely no relationship between the deficit and unemployment .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Declare-Bankruptcy </s> They do n't go together .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Position </s> They do n't go together .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Release-Parole </s> They do n't go together .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Convict </s> They do n't go together .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Arrest-Jail </s> They do n't go together .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Fine </s> They do n't go together .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Merge-Org </s> And number two , there is no Social Security fund , Virginia . There just is n't one .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transfer-Money </s> And number two , there is no Social Security fund , Virginia . There just is n't one .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Arrest-Jail </s> And number two , there is no Social Security fund , Virginia . There just is n't one .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Charge-Indict </s> And number two , there is no Social Security fund , Virginia . There just is n't one .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> And number two , there is no Social Security fund , Virginia . There just is n't one .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Release-Parole </s> And number two , there is no Social Security fund , Virginia . There just is n't one .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Declare-Bankruptcy </s> BEGALA Because Bush squandered it on his tax cuts .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Execute </s> BEGALA Because Bush squandered it on his tax cuts .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Arrest-Jail </s> BEGALA Because Bush squandered it on his tax cuts .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Nominate </s> BEGALA Because Bush squandered it on his tax cuts .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> BEGALA Because Bush squandered it on his tax cuts .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Merge-Org </s> BEGALA Because Bush squandered it on his tax cuts .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Phone-Write </s> NOVAK There never has been one .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Injure </s> NOVAK There never has been one .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Nominate </s> NOVAK There never has been one .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Sentence </s> NOVAK There never has been one .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transport </s> NOVAK There never has been one .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> NOVAK There never has been one .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Divorce </s> BEGALA There has been one for 60 years .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Pardon </s> BEGALA There has been one for 60 years .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transfer-Money </s> BEGALA There has been one for 60 years .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Position </s> BEGALA There has been one for 60 years .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Phone-Write </s> BEGALA There has been one for 60 years .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Demonstrate </s> BEGALA There has been one for 60 years .", "event": "<extra_id_0>  <extra_id_1>"}

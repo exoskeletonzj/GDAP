@@ -155,4 +155,3 @@ CUDA_VISIBLE_DEVICES=${CUDA_VISIBLE_DEVICES} python run_seq2seq.py \
     --seed=${seed} --disable_tqdm True >${output_dir}/span_pretrain.log 2>${output_dir}/span_pretrain.log
 
 
-

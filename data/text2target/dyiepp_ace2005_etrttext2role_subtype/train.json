@@ -1,0 +1,136 @@
+{"text": "Transport </s> Vehicle </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0> <extra_id_0> boat <extra_id_1> <extra_id_1>"}
+{"text": "Transport </s> Artifact </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0> <extra_id_0> men <extra_id_1> <extra_id_1>"}
+{"text": "Transport </s> Destination </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0> <extra_id_0> shores <extra_id_1> <extra_id_1>"}
+{"text": "Transport </s> Place </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transport </s> Origin </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transport </s> Agent </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Injure </s> Victim </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Injure </s> Place </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Injure </s> Instrument </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Injure </s> Agent </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> Person </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> Place </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> Entity </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Trial-Hearing </s> Prosecutor </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Trial-Hearing </s> Place </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Trial-Hearing </s> Defendant </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Trial-Hearing </s> Adjudicator </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Phone-Write </s> Place </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Phone-Write </s> Entity </s> Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> Person </s> He lost an election to a dead man .", "event": "<extra_id_0> <extra_id_0> man <extra_id_1> <extra_id_1>"}
+{"text": "Elect </s> Place </s> He lost an election to a dead man .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> Entity </s> He lost an election to a dead man .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> Target </s> He lost an election to a dead man .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> Attacker </s> He lost an election to a dead man .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> Victim </s> He lost an election to a dead man .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> Place </s> He lost an election to a dead man .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> Instrument </s> He lost an election to a dead man .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Execute </s> Person </s> He lost an election to a dead man .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Execute </s> Place </s> He lost an election to a dead man .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Execute </s> Agent </s> He lost an election to a dead man .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Meet </s> Place </s> He lost an election to a dead man .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Meet </s> Entity </s> He lost an election to a dead man .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Merge-Org </s> Org </s> He lost an election to a dead man .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> Person </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> Place </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> Entity </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Divorce </s> Person </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Divorce </s> Place </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Acquit </s> Defendant </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Acquit </s> Adjudicator </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Arrest-Jail </s> Person </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Arrest-Jail </s> Place </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Arrest-Jail </s> Agent </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> Victim </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> Place </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> Agent </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> Person </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> Instrument </s> NOVAK Paul , as I understand your definition of a political -- of a professional politician based on that is somebody who is elected to public office .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transport </s> Agent </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0> <extra_id_0> bozos <extra_id_1> <extra_id_1>"}
+{"text": "Transport </s> Artifact </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0> <extra_id_0> Cubans <extra_id_1> <extra_id_1>"}
+{"text": "Transport </s> Destination </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0> <extra_id_0> shores <extra_id_1> <extra_id_1>"}
+{"text": "Transport </s> Vehicle </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transport </s> Place </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Transport </s> Origin </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Marry </s> Person </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Marry </s> Place </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> Victim </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> Place </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> Agent </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> Person </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Die </s> Instrument </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Phone-Write </s> Place </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Phone-Write </s> Entity </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Demonstrate </s> Place </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Demonstrate </s> Entity </s> And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Position </s> Person </s> Hire professionals , Mr. President .", "event": "<extra_id_0> <extra_id_0> professionals <extra_id_1> <extra_id_1>"}
+{"text": "Start-Position </s> Place </s> Hire professionals , Mr. President .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Position </s> Entity </s> Hire professionals , Mr. President .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Release-Parole </s> Person </s> Hire professionals , Mr. President .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Release-Parole </s> Place </s> Hire professionals , Mr. President .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Release-Parole </s> Entity </s> Hire professionals , Mr. President .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Phone-Write </s> Place </s> Hire professionals , Mr. President .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Phone-Write </s> Entity </s> Hire professionals , Mr. President .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Sue </s> Plaintiff </s> Hire professionals , Mr. President .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Sue </s> Place </s> Hire professionals , Mr. President .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Sue </s> Defendant </s> Hire professionals , Mr. President .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Sue </s> Adjudicator </s> Hire professionals , Mr. President .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> Person </s> Hire professionals , Mr. President .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> Place </s> Hire professionals , Mr. President .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> Entity </s> Hire professionals , Mr. President .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Position </s> Person </s> It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?", "event": "<extra_id_0> <extra_id_0> politicians <extra_id_1> <extra_id_1>"}
+{"text": "Start-Position </s> Entity </s> It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?", "event": "<extra_id_0> <extra_id_0> Pentagon <extra_id_1> <extra_id_0> Justice Department <extra_id_1> <extra_id_1>"}
+{"text": "Start-Position </s> Place </s> It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Pardon </s> Place </s> It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Pardon </s> Defendant </s> It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Pardon </s> Adjudicator </s> It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Nominate </s> Person </s> It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Nominate </s> Agent </s> It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Org </s> Place </s> It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "End-Org </s> Org </s> It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> Person </s> It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> Place </s> It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Elect </s> Entity </s> It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Nominate </s> Person </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0> <extra_id_0> candidate <extra_id_1> <extra_id_1>"}
+{"text": "Nominate </s> Agent </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Injure </s> Victim </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Injure </s> Place </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Injure </s> Instrument </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Injure </s> Agent </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Release-Parole </s> Person </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Release-Parole </s> Place </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Release-Parole </s> Entity </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Demonstrate </s> Place </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Demonstrate </s> Entity </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Pardon </s> Place </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Pardon </s> Defendant </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Pardon </s> Adjudicator </s> Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Nominate </s> Person </s> He explained he could better spend the next two years on homeland security , the economy and judicial nominations .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Nominate </s> Agent </s> He explained he could better spend the next two years on homeland security , the economy and judicial nominations .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Convict </s> Place </s> He explained he could better spend the next two years on homeland security , the economy and judicial nominations .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Convict </s> Defendant </s> He explained he could better spend the next two years on homeland security , the economy and judicial nominations .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Convict </s> Adjudicator </s> He explained he could better spend the next two years on homeland security , the economy and judicial nominations .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Fine </s> Place </s> He explained he could better spend the next two years on homeland security , the economy and judicial nominations .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Fine </s> Entity </s> He explained he could better spend the next two years on homeland security , the economy and judicial nominations .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Fine </s> Adjudicator </s> He explained he could better spend the next two years on homeland security , the economy and judicial nominations .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Merge-Org </s> Org </s> He explained he could better spend the next two years on homeland security , the economy and judicial nominations .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Phone-Write </s> Place </s> He explained he could better spend the next two years on homeland security , the economy and judicial nominations .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Phone-Write </s> Entity </s> He explained he could better spend the next two years on homeland security , the economy and judicial nominations .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> Place </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0> <extra_id_0> Iraq <extra_id_1> <extra_id_1>"}
+{"text": "Attack </s> Target </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> Attacker </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> Victim </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Attack </s> Instrument </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Trial-Hearing </s> Prosecutor </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Trial-Hearing </s> Place </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Trial-Hearing </s> Defendant </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Trial-Hearing </s> Adjudicator </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Org </s> Place </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Org </s> Org </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Start-Org </s> Agent </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Pardon </s> Place </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Pardon </s> Defendant </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Pardon </s> Adjudicator </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Execute </s> Person </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Execute </s> Place </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
+{"text": "Execute </s> Agent </s> It could swell to as much as $ 500 billion if we go to war in Iraq .", "event": "<extra_id_0>  <extra_id_1>"}
